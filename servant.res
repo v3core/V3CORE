@@ -4,7 +4,7 @@
     "version1": "0.7.1.0"
   },
   "show_patch_warning": true,
-  "patch_warning": "You are using an outdated version of V3! <a href=\"\">Learn how to update</a>.",
+  "patch_warning": "You are using an outdated version of V3! <a href=\"https://github.com/v3core/V3CORE/releases\">Learn how to update</a>.",
   "initial_tips": {
     "tip": {
       "target": "0.7.2.0",
