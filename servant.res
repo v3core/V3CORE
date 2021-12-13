@@ -11,4 +11,11 @@
       "content": "Welcome to V3 Beta. Please keep in mind that this release is mostly intended for testing, and bugs are to be expected."
     }
   }
+  "initial_popups": {
+    "popup": {
+      "id": "EVENT_NATAL",
+      "title": "Merry Christmas!",
+      "content": "V3 wishes you a Merry Christmas!"
+    }
+  }
 }
