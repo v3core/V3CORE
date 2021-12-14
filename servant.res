@@ -15,8 +15,7 @@
   },
   "warnings": {
     "0": {
-      "content": "This is a test.",
-      "priority": 0
+      "content": "This is a test."
     }
   }
 }
