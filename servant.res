@@ -12,11 +12,5 @@
       "content": "Welcome to V3 Beta. Please keep in mind that this release is mostly intended for testing, and bugs are to be expected.",
       "id": 1
     }
-  },
-  "warnings": {
-    "0": {
-      "content": "This is a test.",
-      "priority": 0
-    }
   }
 }
